@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://paorancsg.github.io/`,
+    siteUrl: `https://splendid-kringle-b1ea52.netlify.app`,
     // Your Name
     name: 'Niklas Malinen',
     // Main Site Title
