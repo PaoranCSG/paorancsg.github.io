@@ -75,6 +75,7 @@ module.exports = {
   },
   plugins:
     [
+      `gatsby-plugin-netlify`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -117,7 +118,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
     `gatsby-plugin-feed`,
-    `gatsby-plugin-netlify`,
+    
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
