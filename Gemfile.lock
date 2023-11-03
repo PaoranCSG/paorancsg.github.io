@@ -220,13 +220,6 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minimal-mistakes-jekyll (4.24.0)
-      jekyll (>= 3.7, < 5.0)
-      jekyll-feed (~> 0.1)
-      jekyll-gist (~> 1.5)
-      jekyll-include-cache (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.3)
     minitest (5.20.0)
     mutex_m (0.1.2)
     nokogiri (1.15.4-x64-mingw-ucrt)
@@ -271,11 +264,11 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages (~> 228)
+  github-pages
   jekyll
+  jekyll-include-cache
   jekyll-remote-theme
   jekyll-seo-tag
-  minimal-mistakes-jekyll
 
 BUNDLED WITH
    2.4.21

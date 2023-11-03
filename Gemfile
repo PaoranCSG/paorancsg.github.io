@@ -5,5 +5,6 @@ gem "jekyll"
 gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
 # gem "rails"
-gem "github-pages", "~> 228", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+#gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
