@@ -1,3 +1,5 @@
+layout: home
+author_profile: true
 ---
 layout: default
 title: "Happy Jekylling!"
