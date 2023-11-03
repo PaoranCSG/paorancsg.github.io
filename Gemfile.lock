@@ -269,6 +269,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-remote-theme
   jekyll-seo-tag
+  racc
 
 BUNDLED WITH
    2.4.21
