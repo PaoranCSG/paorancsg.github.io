@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 order: 1
+author_profile: true
 ---
 
 This is now the homepage.
