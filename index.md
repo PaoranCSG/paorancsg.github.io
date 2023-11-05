@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About Me
 order: 1
 author_profile: true
