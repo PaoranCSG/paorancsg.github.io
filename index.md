@@ -11,7 +11,7 @@ author_profile: true
 Cool Smithy Games</a>
 
 </h2>
-<img title="Screenshot" alt="Alt text" src="/images/ClockworkScreenshot.jpg">
+<img title="Screenshot" alt="Alt text" src="/assets/images/ClockworkScreenshot.jpg">
 An autoshooter game where you only need to jump and avoid enemies and collect powerups and experience. 
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
