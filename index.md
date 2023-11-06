@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-<h1> Clockwork Survivors
+<h2> Clockwork Survivors
 
-[Clockwork Survivors](https://store.steampowered.com/app/2062390/Clockwork_Survivors)</h1>
+[Clockwork Survivors](https://store.steampowered.com/app/2062390/Clockwork_Survivors)</h2>
 
 An autoshooter game where
 
