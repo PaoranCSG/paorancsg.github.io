@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<h2 id="clockwork-survivors"> Clockwork Survivors
+<h2 id="clockwork-survivors"> <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Clockwork Survivors</a>
 
 [Clockwork Survivors](https://store.steampowered.com/app/2062390/Clockwork_Survivors)</h2>
 
