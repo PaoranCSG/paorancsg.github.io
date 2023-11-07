@@ -8,7 +8,7 @@ author_profile: true
 <h1> Cool Smithy Games 2021-2023</h1>
 
 
-<h2 id="clockwork-survivors"> <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Lead Game Programmer - Clockwork Survivors Cool Smithy Games - 2023</a></h2>
+<h3 id="clockwork-survivors"> <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Lead Game Programmer - Clockwork Survivors Cool Smithy Games - 2023</a></h3>
 An autoshooter game where you only need to jump and avoid enemies and collect powerups and experience.
 
 I created a seeded map generator for clockwork survivors, and an upgrade system where you gain two different upgrades each time a primary and a secondary improvement.
