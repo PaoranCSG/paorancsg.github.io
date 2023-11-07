@@ -36,7 +36,7 @@ I also made an online matchmaking system using the SteamP2P technology.
 
 *Made with Unity*
 
-<h1> Other Projects <h1>
+<h1> Other Projects </h1>
 <h2 id="hoss"> <a href="https://paoran.itch.io/homminspace"> Heroes of Space and Science - Solo Developer - 2023</a></h2>
 
 A game that I submitted to the Games Job Fair Autumn 2023 Unity Programming Challenge. The game is a combination of Heroes of Might and Magic and an autobattler in spcae, as the theme for the competition was a classic game with a twist.
@@ -61,4 +61,4 @@ Experditions - School Project With Team - 2020</h2>
 <h2 id="quiz"> <a href="https://paoran.itch.io/circle-tank-rise-of-the-squares">Circle Tank - Solo School Project- 2029
 </a></h2>
 
-*made with Unity*
+*Made with Unity*
