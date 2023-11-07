@@ -50,7 +50,7 @@ A quiz game where I created the
 
 
 *Made with Unity*
-<h23 id="quiz"> 
+<h3 id="quiz"> 
 Experditions - School Project With Team - 2020</h3>
 
 
