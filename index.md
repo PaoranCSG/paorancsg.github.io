@@ -9,29 +9,29 @@ author_profile: true
 <h2> Cool Smithy Games 2021-2023</h2>
 
 
-<h3 id="clockwork-survivors"> <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Lead Game Programmer - Clockwork Survivors - Cool Smithy Games - 2023</a></h3>
+<h3 id="clockwork-survivors"> Lead Game Programmer - Clockwork Survivors - Cool Smithy Games - 2023</h3>
 An autoshooter game where you only need to jump and avoid enemies and collect powerups and experience.
 
 I created a seeded map generator and an upgrade system, where you gain a combination of two upgrades. I also created some shaders, including a shield shader and a fluid shader. I created a UI system which works on both a controller and with a pointer.
 
-The game is published in <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Steam</a>, the Epic Games Store, and itch.io.
+The game is published in <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Steam, the Epic Games Store, and itch.io.
 
 
 *Made with Unity*
 
-<img title="Screenshot" alt="Alt text" src="/assets/images/ClockworkScreenshot.jpg">
+<img title="Clockwork Survivors Screenshot" alt="a screenshot of Clocwork Survivors gameplay" src="/assets/images/ClockworkScreenshot.jpg">
 
-<h3 id="dps"> <a href="https://store.steampowered.com/app/1894320/Dr_Professor_Scientists_Weapons_Testing_Facility/">Lead Game Programmer - Dr Professor Scientist's Weapons Testing Facility - Cool Smithy Games - 2022</a></h3>
+<h3 id="dps"> Lead Game Programmer - Dr Professor Scientist's Weapons Testing Facility - Cool Smithy Games - 2022</h3>
 
 A tower defense game where instead of multiple towers, there is one programmable weapon that you upgrade by adding new parts. 
 
 As Lead Game Programmer, I created all the core systems in the game, the highlight being the programmable weapon with modular components that are either projectiles or modifiers, which create a near infinite amount of unique weapons. I also made all of the shaders, and added steam and epic games integration and achievements. I made the UI including the different inventories, upgrade slots, radar, I worked on this project from start to finish, starting from the design process to post launch updates. 
 
-The game is published in Steam, the Epic Games Store, and itch.io.
+The game is published in <a href="https://store.steampowered.com/app/1894320/Dr_Professor_Scientists_Weapons_Testing_Facility/">Steam</a>, <a href="https://store.epicgames.com/en-US/p/dr-professor-scientists-weapons-testing-facility-20a02f">the Epic Games Store</a>, and itch.io.
 
 
 *Made with Unity*
-<img title="Screenshot" alt="DPSWTF screenshot" src="/assets/images/DPSScreenshot.jpg">
+<img title="Screenshot" alt="a screenshot of Dr. Professor Scientist's Weapons Testing Facility gameplay" src="/assets/images/DPSScreenshot.jpg">
 
 
 <h3 id="llh"> Lead Game Programmer - Last Lap Heroes - Cool Smithy Games - 2021</h3>
