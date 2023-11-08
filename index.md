@@ -14,7 +14,7 @@ An autoshooter game where you only need to jump and avoid enemies and collect po
 
 I created a seeded map generator and an upgrade system, where you gain a combination of two upgrades. I also created some shaders, including a shield shader and a fluid shader. I created a UI system which works on both a controller and with a pointer.
 
-The game is published in <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Steam</a>, the Epic Games Store, and itch.io.
+The game is published in <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Steam</a>, Epic Games Store, and itch.io.
 
 
 *Made with Unity*
@@ -27,7 +27,7 @@ A tower defense game where instead of multiple towers, there is one programmable
 
 As Lead Game Programmer, I created all the core systems in the game, the highlight being the programmable weapon with modular components that are either projectiles or modifiers, which create a near infinite amount of unique weapons. I also made all of the shaders, and added steam and epic games integration and achievements. I made the UI including the different inventories, upgrade slots, radar, I worked on this project from start to finish, starting from the design process to post launch updates. 
 
-The game is published in <a href="https://store.steampowered.com/app/1894320/Dr_Professor_Scientists_Weapons_Testing_Facility/">Steam</a>, the <a href="https://store.epicgames.com/en-US/p/dr-professor-scientists-weapons-testing-facility-20a02f">Epic Games Store</a>, and itch.io.
+The game is published in <a href="https://store.steampowered.com/app/1894320/Dr_Professor_Scientists_Weapons_Testing_Facility/">Steam</a>, <a href="https://store.epicgames.com/en-US/p/dr-professor-scientists-weapons-testing-facility-20a02f">Epic Games Store</a>, and itch.io.
 
 
 *Made with Unity*
