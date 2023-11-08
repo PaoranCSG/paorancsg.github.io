@@ -12,7 +12,9 @@ author_profile: true
 <h3 id="clockwork-survivors"> <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Lead Game Programmer - Clockwork Survivors - Cool Smithy Games - 2023</a></h3>
 An autoshooter game where you only need to jump and avoid enemies and collect powerups and experience.
 
-I created a seeded map generator and an upgrade system, where you gain two different upgrades each time a primary and a secondary improvement.
+I created a seeded map generator and an upgrade system, where you gain a combination of two upgrades. I also created some shaders, including a shield shader and a fluid shader. I created a UI system which works on both a controller and with a pointer.
+
+The game is published in <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Steam</a>, the Epic Games Store, and itch.io.
 
 
 *Made with Unity*
@@ -24,6 +26,8 @@ I created a seeded map generator and an upgrade system, where you gain two diffe
 A tower defense game where instead of multiple towers, there is one programmable weapon that you upgrade by adding new parts. 
 
 As Lead Game Programmer, I created all the core systems in the game, the highlight being the programmable weapon with modular components that are either projectiles or modifiers, which create a near infinite amount of unique weapons. I also made all of the shaders, and added steam and epic games integration and achievements. I made the UI including the different inventories, upgrade slots, radar, I worked on this project from start to finish, starting from the design process to post launch updates. 
+
+The game is published in Steam, the Epic Games Store, and itch.io.
 
 
 *Made with Unity*
