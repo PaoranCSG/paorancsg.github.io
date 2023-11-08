@@ -37,6 +37,7 @@ I also made an online matchmaking system using the SteamP2P technology.
 
 
 *Made with Unity*
+<img title="Screenshot" alt="Alt text" src="/assets/images/LLH.jpg">
 
 <h2> Other Projects </h2>
 <h3 id="hoss"> <a href="https://paoran.itch.io/homminspace"> Heroes of Space and Science - Solo Developer - 2023</a></h3>
