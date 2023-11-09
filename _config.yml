@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Niklas Malinen Portfolio
-email:
+title: Niklas Malinen
+email: niklas.malinen@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This is Niklas Malinen's Portfolio Website, I am a Game Programmer and my specialty is Unity and C#
 twitter_username: username
