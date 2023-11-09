@@ -10,14 +10,14 @@ author_profile: true
 
 
 <h3 id="clockwork-survivors"> Lead Game Programmer - Clockwork Survivors - Cool Smithy Games - 2023</h3>
-An autoshooter game where you only need to jump and avoid enemies and collect powerups and experience.
+An autoshooter and autorunner game where you only need to jump and avoid enemies and collect powerups and experience.
 
 I created a seeded map generator and an upgrade system, where you gain a combination of two upgrades. I also created some shaders, including a shield shader and a fluid shader. I created a UI system which works on both a controller and with a pointer.
 
 The game is published in <a href="https://store.steampowered.com/app/2062390/Clockwork_Survivors">Steam</a>, <a href="https://store.epicgames.com/en-US/p/clockwork-survivors-c6b7c4"> Epic Games Store</a>, and <a href= "https://coolsmithygames.itch.io/clockwork-survivors">itch.io</a>.
 
 
-*Made with Unity*
+*made with Unity*
 
 <img title="Clockwork Survivors Screenshot" alt="a screenshot of Clocwork Survivors gameplay" src="/assets/images/ClockworkScreenshot.jpg">
 
@@ -30,17 +30,17 @@ As Lead Game Programmer, I created all the core systems in the game, the highlig
 The game is published in <a href="https://store.steampowered.com/app/1894320/Dr_Professor_Scientists_Weapons_Testing_Facility/">Steam</a>, <a href="https://store.epicgames.com/en-US/p/dr-professor-scientists-weapons-testing-facility-20a02f">Epic Games Store</a>, and <a href="https://coolsmithygames.itch.io/dpswtf"> itch.io</a>.
 
 
-*Made with Unity*
+*made with Unity*
 <img title="Screenshot" alt="a screenshot of Dr. Professor Scientist's Weapons Testing Facility gameplay" src="/assets/images/DPSScreenshot.jpg">
 
 
 <h3 id="llh"> Lead Game Programmer - Last Lap Heroes - Cool Smithy Games - 2021</h3>
 
-A multiplayer asynchronous turn based racing game. I created a track building tool where you build a track using splines and then a grid is automatically generated for it. 
+A multiplayer asynchronous turn based racing game. I created a track building tool where you build a track using splines and then a grid is automatically generated for it. I made the whole turnbased asynchronous gameplay loop.
 I also made an online matchmaking system using the SteamP2P technology.
 
 
-*Made with Unity*
+*made with Unity*
 <img title="Screenshot" alt="Alt text" src="/assets/images/LLH.jpg">
 
 <h2> Other Projects </h2>
@@ -49,25 +49,25 @@ I also made an online matchmaking system using the SteamP2P technology.
 A game that I submitted to the Games Job Fair Autumn 2023 Unity Programming Challenge. The game is a combination of Heroes of Might and Magic and an autobattler in space, as the theme for the competition was a classic game with a twist. I made a building and unit production system and a autobattle space combat. The game was made in 2 weeks. The game can be played on <a href="https://paoran.itch.io/homminspace">itch.io</a>.
 
 
-*Made with Unity*
+*made with Unity*
 
 <h3 id="quiz"> Unnamed Quiz Game - School Project With Team - Helsinki Metropolia University of Applied Sciences - 2019</h3>
 
 A quiz game where I created the php script that pulls questions and answers out of a sql database and parsing the data to unity usable data.
 
 
-*Made with Unity*
+*made with Unity*
 <h3 id="experditions"> 
 Experditions - School Project With Team - Helsinki Metropolia University of Applied Sciences - 2020</h3>
 
 A platformer where you use two characters solve puzzles and get through the level with different abilities. I created the base mechanics of the game, such as jumps and walljumps etc.
 
-*Made with Unity*
+*made with Unity*
 <h3 id="fallenPrince"> Fallen Prince of Yielden Keep - School Project With Team - Helsinki Metropolia University of Applied Sciences- 2019</h3>
 
 A side scrolling rpg action rpg equipment. I created the inventory system and the loot system where weapons and armor get different affixes and suffixes.
 
-*Made with Unity*
+*made with Unity*
 <h3 id="CircleTank"> Circle Tank - Solo School Project- Helsinki Metropolia University of Applied Sciences- 2019</h3>
 
 A twin stick shooter where you control a circular tank. I created a few levels of gameplay with increasing amounts of enemies and a few simple AI:s for the enemies. Additionally includes a two player co-op mode. Can be played on <a href="https://paoran.itch.io/circle-tank-rise-of-the-squares">itch.io.</a>.
