@@ -5,8 +5,9 @@ order: 1
 author_profile: true
 
 ---
-Welcome to my portfolio, here is a showcase of my projects, with loads of more to come. I have 3 years of professional experience with game development and many more years of hobbyist development and studies on the subject. 
-If you want to be in contact for work offers, collaborations or just want to talk, hit me up on <a href = "https://www.linkedin.com/in/niklas-malinen-19307917a/">Linkedin</a>.  My main skills are in Unity and C# game development, but I have loads of additional skills in PHP, SQL, C++, C, Scrum, Unreal Engine, java, html, css, world building, game design and more.
+Welcome to my portfolio, here is a showcase of my projects, with loads of more to come. I have 3 years of professional experience with game development and many more years of hobbyist development and studies on the subject. My main skills are in Unity and C# game development, but I have loads of additional skills in PHP, SQL, C++, C, Scrum, Unreal Engine, java, html, css, world building, game design and 25 years of gaming experience.
+
+If you want to be in contact for work offers, collaborations or just want to talk, hit me up on <a href = "https://www.linkedin.com/in/niklas-malinen-19307917a/">Linkedin</a>.
 
 <h2> Cool Smithy Games 2021-2023</h2>
 
