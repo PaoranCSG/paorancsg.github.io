@@ -9,10 +9,10 @@ Welcome to my portfolio, here is a showcase of my projects, with loads of more t
 
 If you want to be in contact for work offers, collaborations or just want to talk, hit me up on <a href = "https://www.linkedin.com/in/niklas-malinen-19307917a/">Linkedin</a>.
 
-<h2> Cool Smithy Games 2021-2023</h2>
+<h2> Cool Smithy Games 2021-</h2>
 
 
-<h3 id="clockwork-survivors"> Lead Game Programmer - Clockwork Survivors - Cool Smithy Games - 2023</h3>
+<h3 id="clockwork-survivors"> Senior Game Programmer - Clockwork Survivors - Cool Smithy Games - 2023</h3>
 An autoshooter and autorunner game where you only need to jump and avoid enemies and collect powerups and experience.
 
 I created a seeded map generator and an upgrade system, where you gain a combination of two upgrades. I also created some shaders, including a shield shader and a fluid shader. I created a UI system which works on both a controller and with a pointer.
@@ -24,11 +24,11 @@ The game is published in <a href="https://store.steampowered.com/app/2062390/Clo
 
 <img title="Clockwork Survivors Screenshot" alt="a screenshot of Clocwork Survivors gameplay" src="/assets/images/ClockworkScreenshot.jpg">
 
-<h3 id="dps"> Lead Game Programmer - Dr Professor Scientist's Weapons Testing Facility - Cool Smithy Games - 2022</h3>
+<h3 id="dps"> Senior Game Programmer - Dr Professor Scientist's Weapons Testing Facility - Cool Smithy Games - 2022</h3>
 
 A tower defense game where instead of multiple towers, there is one programmable weapon that you upgrade by adding new parts. 
 
-As Lead Game Programmer, I created all the core systems in the game, the highlight being the programmable weapon with modular components that are either projectiles or modifiers, which create a near infinite amount of unique weapons. I also made all of the shaders, and added steam and epic games integration and achievements. I made the UI including the different inventories, upgrade slots, radar, I worked on this project from start to finish, starting from the design process to post launch updates. 
+As Senior Game Programmer, I created all the core systems in the game, the highlight being the programmable weapon with modular components that are either projectiles or modifiers, which create a near infinite amount of unique weapons. I also made all of the shaders, and added steam and epic games integration and achievements. I made the UI including the different inventories, upgrade slots, radar, I worked on this project from start to finish, starting from the design process to post launch updates. 
 
 The game is published in <a href="https://store.steampowered.com/app/1894320/Dr_Professor_Scientists_Weapons_Testing_Facility/">Steam</a>, <a href="https://store.epicgames.com/en-US/p/dr-professor-scientists-weapons-testing-facility-20a02f">Epic Games Store</a>, and <a href="https://coolsmithygames.itch.io/dpswtf"> itch.io</a>.
 
@@ -37,7 +37,7 @@ The game is published in <a href="https://store.steampowered.com/app/1894320/Dr_
 <img title="Screenshot" alt="a screenshot of Dr. Professor Scientist's Weapons Testing Facility gameplay" src="/assets/images/DPSScreenshot.jpg">
 
 
-<h3 id="llh"> Lead Game Programmer - Last Lap Heroes - Cool Smithy Games - 2021</h3>
+<h3 id="llh"> Senior Game Programmer - Last Lap Heroes - Cool Smithy Games - 2021</h3>
 
 A multiplayer asynchronous turn based racing game. I created a track building tool where you build a track using splines and then a grid is automatically generated for it. I made the whole turnbased asynchronous gameplay loop.
 I also made an online matchmaking system using the SteamP2P technology.
