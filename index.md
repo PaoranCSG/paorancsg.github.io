@@ -10,6 +10,9 @@ Welcome to my portfolio, here is a showcase of my projects, with loads of more t
 If you want to be in contact for work offers, collaborations or just want to talk, hit me up on <a href = "https://www.linkedin.com/in/niklas-malinen-19307917a/">Linkedin</a>.
 
 <h2> Cool Smithy Games 2021-</h2>
+<h3 id="new-game"> Senior Game Programmer - Unnamed Game - Cool Smithy Games - 2024</h3>
+Currently working on a new game for Cool Smithy Games, no details to share yet.
+*made with Unity*
 
 
 <h3 id="clockwork-survivors"> Senior Game Programmer - Clockwork Survivors - Cool Smithy Games - 2023</h3>
