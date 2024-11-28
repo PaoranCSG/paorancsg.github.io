@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=480 height=270 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -52,12 +52,12 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebBuild0.2.loader.js";
+      var loaderUrl = buildUrl + "/Webgl0.3.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/WebBuild0.2.data.unityweb",
-        frameworkUrl: buildUrl + "/WebBuild0.2.framework.js.unityweb",
-        codeUrl: buildUrl + "/WebBuild0.2.wasm.unityweb",
+        dataUrl: buildUrl + "/Webgl0.3.data.unityweb",
+        frameworkUrl: buildUrl + "/Webgl0.3.framework.js.unityweb",
+        codeUrl: buildUrl + "/Webgl0.3.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "DPS2",
