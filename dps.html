@@ -52,12 +52,12 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebGL0.5.loader.js";
+      var loaderUrl = buildUrl + "/WebGl0.6.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/WebGL0.5.data.unityweb",
-        frameworkUrl: buildUrl + "/WebGL0.5.framework.js.unityweb",
-        codeUrl: buildUrl + "/WebGL0.5.wasm.unityweb",
+        dataUrl: buildUrl + "/WebGl0.6.data.unityweb",
+        frameworkUrl: buildUrl + "/WebGl0.6.framework.js.unityweb",
+        codeUrl: buildUrl + "/WebGl0.6.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "DPS2",
@@ -98,8 +98,8 @@
 
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
-        canvas.style.width = "240px";
-        canvas.style.height = "135px";
+        canvas.style.width = "480px";
+        canvas.style.height = "270px";
       }
 
       document.querySelector("#unity-loading-bar").style.display = "block";
