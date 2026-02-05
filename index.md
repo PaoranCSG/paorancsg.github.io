@@ -11,7 +11,9 @@ If you want to be in contact for work offers, collaborations or just want to tal
 
 <h2> Cool Smithy Games 2021-</h2>
 <h3 id="new-game"> Senior Game Programmer - D.P.S: Weapons Testing Facility 2 - Cool Smithy Games - 2025</h3>
-The sequel to Dr. Professor Scientist's Weapons Testing Facility, rebuilt from the ground up and including multiple new systems to make the game more fun. Like the original it includes the programmable weapon, with two added side-weapons. Added mutations which allow the player to mutate
+The sequel to Dr. Professor Scientist's Weapons Testing Facility, rebuilt from the ground up and including multiple new systems to make the game more fun. Like the original it includes the programmable weapon, with two added side-weapons. 
+
+Added mutations which allow the player to mutate
 their components to suit their playstyle. Wave selection system that changes how every wave works and gives rewards to the player. All programming and a large part of the game design was done by me.
 
 *made with Unity*
